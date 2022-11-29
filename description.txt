@@ -2,13 +2,13 @@ Implemented:
  -Merchant replaces guide on spawn (furnace)
  -Surface is all the ice biome (evils, jungle, desert, and dungeon preserved)
  -Christmas permanently on
+ -Considerably more frequent rainfall
 
 Planned:
  >NPCs can move in at night and arent affected by biomes
 
  >Shorter days and longer nights (maybe half day and double night)
- >Rain is more frequent
- (if possible, need the texture for night sky so I can add an aurora borealis)
+ rain (if possible, need the texture for night sky so I can add an aurora borealis)
 
  >Trees spawn more frequently, 1/2 chance they are a Christmas Tree (random decorations?)
  >Christmas trees can spawn in underground layer like in the jungle (maybe caverns too)
