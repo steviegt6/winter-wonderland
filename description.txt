@@ -1,11 +1,11 @@
 Implemented:
  -Merchant replaces guide on spawn (furnace)
  -Surface is all the ice biome (evils, jungle, desert, and dungeon preserved)
+ -Christmas permanently on
 
 Planned:
  >NPCs can move in at night and arent affected by biomes
 
- >Christmas Mode permanently on if mod is enabled
  >Shorter days and longer nights (maybe half day and double night)
  >Rain is more frequent
  (if possible, need the texture for night sky so I can add an aurora borealis)
