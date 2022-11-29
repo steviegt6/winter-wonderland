@@ -15,12 +15,12 @@ public class RainFrequencyBoostEdit : ModSystem
             var c = new ILCursor(il);
 
             c.GotoNext(x => x.MatchCall<Main>("StartRain"));
-            c.GotoPrev(x => x.MatchLdcR8(5.75f));
+            c.GotoPrev(MoveType.After, x => x.MatchLdcR8(5.75));
             c.Emit(OpCodes.Pop);
-            c.Emit(OpCodes.Ldc_R8, 2.5f);
-            c.GotoNext(x => x.MatchLdcR8(4.25f));
+            c.Emit(OpCodes.Ldc_R8, 2.5);
+            c.GotoNext(MoveType.After, x => x.MatchLdcR8(4.25));
             c.Emit(OpCodes.Pop);
-            c.Emit(OpCodes.Ldc_R8, 1.25f);
+            c.Emit(OpCodes.Ldc_R8, 1.25);
         };
     }
 }
