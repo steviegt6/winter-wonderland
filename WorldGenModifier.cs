@@ -46,7 +46,7 @@ public class WorldGenModifier : ModSystem
             (progress, _) =>
             {
                 progress.Set(1f);
-                var npc = NPC.NewNPCDirect(new EntitySource_WorldGen(), Main.spawnTileX * 16, Main.spawnTileY * 16, NPCID.SantaClaus);
+                var npc = NPC.NewNPCDirect(new EntitySource_WorldGen(), Main.spawnTileX * 16, Main.spawnTileY * 16, NPCID.Merchant);
                 npc.homeTileX = Main.spawnTileX;
                 npc.homeTileY = Main.spawnTileY;
                 npc.direction = 1;

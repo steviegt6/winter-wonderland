@@ -1,5 +1,5 @@
 Implemented:
- -Santa replaces guide on spawn
+ -Merchant replaces guide on spawn (furnace)
  -Surface is all the ice biome (evils, jungle, desert, and dungeon preserved)
 
 Planned:
