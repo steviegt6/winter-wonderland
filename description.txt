@@ -11,20 +11,7 @@ Planned:
  (if possible, need the texture for night sky so I can add an aurora borealis)
 
  >Trees spawn more frequently, 1/2 chance they are a Christmas Tree (random decorations?)
- >Underground layer has dirt replaced by snow
  >Christmas trees can spawn in underground layer like in the jungle (maybe caverns too)
-
- -Unaffected biomes:
- >Underworld
- >Space
- >Jungle
- >Underground Jungle
- >Temple
- >Glowing Mushroom
- >Corruption
- >Crimson
- >Hallow
- >Dungeon
 
  -Desert has reskinned sand and backgrounds (I just need source files and the vanilla textures to go off of, I can do the art)
  >Same with ocean biome, but palm trees are replaced with christmas trees
