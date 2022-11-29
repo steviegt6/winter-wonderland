@@ -1,31 +1,34 @@
--Santa replaces guide on spawn
->NPCs can move in at night and arent affected by biomes
+Implemented:
+ -Santa replaces guide on spawn
+ -Surface is all the ice biome (evils, jungle, desert, and dungeon preserved)
 
--Forest biome is replaced by snow biome
->Christmas Mode permanently on if mod is enabled
->Shorter days and longer nights (maybe half day and double night)
->Rain is more frequent
-(if possible, need the texture for night sky so I can add an aurora borealis)
+Planned:
+ >NPCs can move in at night and arent affected by biomes
 
->Trees spawn more frequently, 1/2 chance they are a Christmas Tree (random decorations?)
->Underground layer has dirt replaced by snow
->Christmas trees can spawn in underground layer like in the jungle (maybe caverns too)
+ >Christmas Mode permanently on if mod is enabled
+ >Shorter days and longer nights (maybe half day and double night)
+ >Rain is more frequent
+ (if possible, need the texture for night sky so I can add an aurora borealis)
 
--Unaffected biomes:
->Underworld
->Space
->Jungle
->Underground Jungle
->Temple
->Glowing Mushroom
->Corruption
->Crimson
->Hallow
->Dungeon
+ >Trees spawn more frequently, 1/2 chance they are a Christmas Tree (random decorations?)
+ >Underground layer has dirt replaced by snow
+ >Christmas trees can spawn in underground layer like in the jungle (maybe caverns too)
 
--Desert has reskinned sand and backgrounds (I just need source files and the vanilla textures to go off of, I can do the art)
->Same with ocean biome, but palm trees are replaced with christmas trees
->If possible, Ocean has 1 layer of ice above it
+ -Unaffected biomes:
+ >Underworld
+ >Space
+ >Jungle
+ >Underground Jungle
+ >Temple
+ >Glowing Mushroom
+ >Corruption
+ >Crimson
+ >Hallow
+ >Dungeon
 
--Need a source file to retexture a minishark, this should only change the look and not affect
-it in any other way. Someone disabling the mod shouldnt break it
+ -Desert has reskinned sand and backgrounds (I just need source files and the vanilla textures to go off of, I can do the art)
+ >Same with ocean biome, but palm trees are replaced with christmas trees
+ >If possible, Ocean has 1 layer of ice above it
+
+ -Need a source file to retexture a minishark, this should only change the look and not affect
+ it in any other way. Someone disabling the mod shouldnt break it
