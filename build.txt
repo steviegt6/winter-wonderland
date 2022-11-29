@@ -1,0 +1,3 @@
+displayName = Winter Wonderland
+author = Tomat & coffee009
+version = 1.0.0
