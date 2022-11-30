@@ -4,9 +4,10 @@ Implemented:
  -Christmas permanently on
  -Considerably more frequent rainfall
  -Days are half as long and nights are twice as long
+ -NPCs can move in at night
 
 Planned:
- >NPCs can move in at night and arent affected by biomes
+ >NPCs arent affected by biomes
 
  rain (if possible, need the texture for night sky so I can add an aurora borealis)
 
